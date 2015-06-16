@@ -47,3 +47,7 @@ inspect your APIs.
 
 You must use a version &gt;= 5.4.8 to start supporting the `PATCH` HTTP method
 
+How to check?
+--------------
+e.g. over tool in PHPstorm (Test RESTful webservice)
+![Test RESTful webservice](https://raw.githubusercontent.com/tom-sapletta-com/restful1/master/public/img/img1.png)
